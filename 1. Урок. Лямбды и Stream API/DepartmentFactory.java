@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class DepartmentFabric {
+public class DepartmentFactory {
 
     private static Random random = new Random();
 

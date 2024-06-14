@@ -8,7 +8,7 @@ public class Lesson_1 {
 
     public static void main(String[] args) {
 
-        List<Person> persons = DepartmentFabric.generatePerson(10);
+        List<Person> persons = DepartmentFactory.generatePerson(10);
         System.out.println(" =========================================== Сгенерированная коллекция департаментов =========================================== ");
         System.out.println(persons);
 

@@ -1,0 +1,9 @@
+package org.example;
+
+import lombok.Data;
+
+@Data
+public class LoginRequest {
+
+    private String login;
+}
